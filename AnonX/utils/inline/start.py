@@ -37,11 +37,11 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
             ),
         ],
         [
-            InlineKeyboardButton(text="[🇮🇳] Dᴇᴠ", url=f"https://t.me/Mr_ramiz_razza"),
-            InlineKeyboardButton(text="Cʜᴀɴɴᴇʟ", url=f"https://youtube.com/@mdramiz7428?si=iuUeKp6yyYCqQOp3"),
+            InlineKeyboardButton(text="[🇮🇳] Dᴇᴠ", url=f"https://t.me/DEVIL_IZ_BACK"),
+            InlineKeyboardButton(text="Cʜᴀɴɴᴇʟ", url=f"https://t.me/SCIENCE_CLUBS"),
         ],
         [
-            InlineKeyboardButton(text="Iɴᴛʀᴏᴅᴜᴄᴛɪᴏɴ", url=f"https://instagram.com/Md_ramiz_razza"),
+            InlineKeyboardButton(text="Iɴᴛʀᴏᴅᴜᴄᴛɪᴏɴ", url=f"https://t.me/ABOUTINNOCENT"),
         ],
     ]
     
