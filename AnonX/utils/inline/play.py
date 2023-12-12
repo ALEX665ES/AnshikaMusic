@@ -60,15 +60,15 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="Oᴡɴᴇʀ", url=f"https://t.me/Devil_iz_back"
+                text="𝖮𝗐𝗇𝖾𝗋", url=f"https://t.me/Devil_iz_back"
             ),
             InlineKeyboardButton(
-                text="Sᴜᴘᴘᴏʀᴛ", url=config.SUPPORT_CHANNEL
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url=config.SUPPORT_CHANNEL
             )
         ],
         [
             InlineKeyboardButton(
-                text="Cʟᴏsᴇ", callback_data=f"close"
+                text="𝖢𝗅𝗈𝗌𝖾", callback_data=f"close"
             )
         ],
     ]
@@ -125,15 +125,15 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="Oᴡɴᴇʀ", url=f"https://t.me/Devil_iz_back"
+                text="𝖮𝗐𝗇𝖾𝗋", url=f"https://t.me/Devil_iz_back"
             ),
             InlineKeyboardButton(
-                text="Sᴜᴘᴘᴏʀᴛ", url=config.SUPPORT_CHANNEL
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url=config.SUPPORT_CHANNEL
             )
         ],
         [
             InlineKeyboardButton(
-                text="Cʟᴏsᴇ", callback_data=f"close"
+                text="𝖢𝗅𝗈𝗌𝖾", callback_data=f"close"
             )
         ],
     ]
@@ -162,15 +162,15 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="Oᴡɴᴇʀ", url=f"https://t.me/Devil_iz_back"
+                text="𝖮𝗐𝗇𝖾𝗋", url=f"https://t.me/Devil_iz_back"
             ),
             InlineKeyboardButton(
-                text="Sᴜᴘᴘᴏʀᴛ", url=config.SUPPORT_CHANNEL
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url=config.SUPPORT_CHANNEL
             )
         ],
         [
             InlineKeyboardButton(
-                text="Cʟᴏsᴇ", callback_data=f"close"
+                text="𝖢𝗅𝗈𝗌𝖾", callback_data=f"close"
             )
         ],
     ]
@@ -196,15 +196,15 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="Oᴡɴᴇʀ", url=f"https://t.me/Devil_iz_back"
+                text="𝖮𝗐𝗇𝖾𝗋", url=f"https://t.me/Devil_iz_back"
             ),
             InlineKeyboardButton(
-                text="Sᴜᴘᴘᴏʀᴛ", url=config.SUPPORT_CHANNEL
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url=config.SUPPORT_CHANNEL
             )
         ],
         [
             InlineKeyboardButton(
-                text="Cʟᴏsᴇ", callback_data=f"close"
+                text="𝖢𝗅𝗈𝗌𝖾", callback_data=f"close"
             )
         ],
     ]
@@ -328,10 +328,10 @@ close_keyboard = InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        text="Cʟᴏꜱᴇ", callback_data="close"
+                        text="𝖢𝗅𝗈𝗌𝖾", callback_data="close"
                     ),
                     InlineKeyboardButton(
-                text="Oᴡɴᴇʀ", url=f"https://t.me/DEVIL_IZ_BACK"
+                text="𝖮𝗐𝗇𝖾𝗋", url=f"https://t.me/DEVIL_IZ_BACK"
                     )
                 ]    
             ]
@@ -362,15 +362,15 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="Oᴡɴᴇʀ", url=f"https://t.me/Devil_iz_back"
+                text="𝖮𝗐𝗇𝖾𝗋", url=f"https://t.me/Devil_iz_back"
             ),
             InlineKeyboardButton(
-                text="Sᴜᴘᴘᴏʀᴛ", url=config.SUPPORT_CHANNEL
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url=config.SUPPORT_CHANNEL
             )
         ],
         [
             InlineKeyboardButton(
-                text="Cʟᴏsᴇ", callback_data=f"close"
+                text="𝖢𝗅𝗈𝗌𝖾", callback_data=f"close"
             )
         ],
     ]
